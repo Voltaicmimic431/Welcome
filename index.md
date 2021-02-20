@@ -15,6 +15,19 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+# HTML Test
+`
+<html>
+  <head>
+    <title>TEST</title>
+  </head>
+  <body>
+    <p> This is a code sample </p>
+  </body>
+</html>
+
+`
+
 - Bulleted
 - List
 
